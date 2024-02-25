@@ -1,3 +1,5 @@
+# This fork fixes missing cstdint include
+
 <h1 align="center">
   <a href="https://www.reactphysics3d.com"><img src="https://github.com/DanielChappuis/reactphysics3d/blob/62e17155e3fc187f4a90f7328c1154fc47e41d69/documentation/UserManual/images/ReactPhysics3DLogo.png" alt="ReactPhysics3D" width="300"></a>
   <br>
